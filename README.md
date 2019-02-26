@@ -4,7 +4,7 @@ Simple PHP Converter for Country Name to Country Code
 # Example Input
 ``<?php
 include('countrycode.php');
-echogetCountryCodeByCountryName('Indonesia')
+echo getCountryCodeByCountryName('Indonesia')
 ?>``
 
 # Example Output

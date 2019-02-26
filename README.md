@@ -8,10 +8,13 @@ getCountryCodeByCountryName('Indonesia')
 ?>``
 
 # Example Output
-``
+
 JSON
+``
 {"name":"Indonesia","code":"ID"}
+``
 
 Simple
+``
 ID
 ``

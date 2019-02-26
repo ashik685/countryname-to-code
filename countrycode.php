@@ -259,5 +259,5 @@ function getCountryCodeByCountryName($countryName) {
     }
 }
 
-echo getCountryCodeByCountryName('Indonesia');
+//echo getCountryCodeByCountryName('Indonesia');
 ?>
